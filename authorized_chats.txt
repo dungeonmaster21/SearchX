@@ -1,1 +1,3 @@
-#Enter The Chat IDs & User ID Here, Whom You Wanna Give Access To.One Per Line.
+870620511
+1086205893
+-1001532259023
